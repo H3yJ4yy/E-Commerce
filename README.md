@@ -55,7 +55,7 @@ DB_USER='root'
  
   ## Tests
   
-![Test Video](https://github.com/H3yJ4yy/E-Commerce/assets/143395836/5891e020-47fc-4917-91f2-40bd4e0a90ac)
+[Test Video](https://github.com/H3yJ4yy/E-Commerce/assets/143395836/5891e020-47fc-4917-91f2-40bd4e0a90ac)
 
 
   ### Contact 
